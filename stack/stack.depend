@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1575483696 source:/home/sourabh/Documents/codeblocks /cpp/stack/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1569077614 source:/home/sourabh/Documents/codeblocks /stack/stack1/main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+	<string>
+
